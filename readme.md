@@ -10,8 +10,6 @@ The Meetup API Starter Kits include both a native HTML5 and JavaScript Windows S
 
 For features and requirements, as well as customization information for each of the projects, please see the contents of the Windows8 or WindowsPhone8 folders
 
-![alt text][1]
-
 ##**DISCLAIMER**: 
 
 The sample code described herein is provided on an "as is" basis, without warranty of any kind, to the fullest extent permitted by law. Both Microsoft and I do not warrant or guarantee the individual success developers may have in implementing the sample code on their development platforms or in using their own Web server configurations. 
