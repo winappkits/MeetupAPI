@@ -1,8 +1,8 @@
 #Meetup and Maps Starter Kit
-##Date: 07/26/2013
-##Version: v0.0.1
+##Date: 9/30/2013
+##Version: v0.0.2
 ##Author(s): G. Andrew Duthie
-##URL: http://github.com/apimash/starterkits
+##URL: https://github.com/winappkits/MeetupAPI/tree/master/WindowsPhone8
 
 ----------
 ###Description
@@ -20,7 +20,7 @@ The Meetup and Maps Starter Kit is a Windows Phone 8 app based on the Databound 
  - Windows Phone Marketplace Account (to submit app for certification)
 
 ###Setup and Customization
-Basic customization is done via the file AppConstants.cs, found in the Customiztion folder. Here are the key items you can customize:
+Basic customization is done via the file AppConstants.cs, found in the Customization folder. Here are the key items you can customize:
 
  - meetupUri: base uri for the Meetup API to be called
  - meetupKey: Your custom Meetup API key
@@ -47,12 +47,12 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
 ----------
 
 ##Change Log
-###v0.0.1
+###v0.0.2
 
- - initial release
+ - updated readme to reflect new project location
 
 
-  [1]: https://raw.github.com/apimash/StarterKits/master/Windows%20Phone%20Starter%20Kits/APIMASH_MeetupMaps_StarterKit/MainPage.png "Home Page"
+  [1]: https://raw.github.com/winappkits/MeetupAPI/master/WindowsPhone8/MainPage.png "Home Page"
   [2]: http://www.meetup.com/meetup_api/ "Meetup API"
   [3]: http://msdn.microsoft.com/en-US/library/windowsphone/develop/jj207045(v=vs.105).aspx
   [4]: http://msdn.microsoft.com/en-us/library/windowsphone/develop/jj206989(v=vs.105).aspx

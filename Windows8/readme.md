@@ -1,8 +1,8 @@
 #Meetup/Bing Maps Starter Kit
-##Date: 05/08/2013
-##Version: v0.0.2
+##Date: 09/30/2013
+##Version: v0.0.3
 ##Author(s): G. Andrew Duthie
-##URL: http://github.com/apimash/starterkits
+##URL: https://github.com/winappkits/MeetupAPI/tree/master/Windows8
 
 ----------
 ###Description
@@ -58,14 +58,10 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
 ----------
 
 ##Change Log
-###v0.0.2
+###v0.0.3
+ - Updated readme to reflect new project location.
 
- - Added license information to all source files
-
- - List item
-
-
-  [1]: https://raw.github.com/apimash/StarterKits/master/Windows%20Starter%20Kits/APIMASH_MeetupPOI_StarterKit/homePage.png "Home Page"
+  [1]: https://raw.github.com/winappkits/MeetupAPI/master/Windows8/homePage.png "Home Page"
   [2]: http://www.meetup.com/meetup_api/ "Meetup API"
   [3]: http://www.meetup.com/meetup_api/ "Meetup API"
   [4]: http://visualstudiogallery.msdn.microsoft.com/bb764f67-6b2c-4e14-b2d3-17477ae1eaca
